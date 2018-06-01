@@ -13,7 +13,7 @@ Enrique A. Sanchez Montellano <nahual@0hday.org>
 
 This is propietary code of 0hday.org for enciclopedia
 pentestica, this is is released under beerware license
-don't remove this headers and send comments to flames@0hday.org
+don't remove this headers and send comments to nahualito@cthuluhsecurity.com
 (YES it does exist, ping emails will not be answered) 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -124,10 +124,9 @@ MSN conversations, e-mails and irc conversations are saved in:
 
 ---:[ Bug Report/Suggestions/Troubles ]:---
 
-RTM forums - zonartm.org/foro
-Official site - nediam.com.mx/trapper
+Official site - https://github.com/nahualito/trapper
 
-Or contact us at:
+Or contact us at: (We might not respond)
 
 crypkey@gmail.com (status unknown)
 nediam@nediam.com.mx (dead domain alive hacker)

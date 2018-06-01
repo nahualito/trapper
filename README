@@ -1,6 +1,6 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Official Site: www.nediam.com.mx/trapper
+Official Site: https://github.com/nahualito/trapper
 For tutorials, screenshots, videos and more.
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -129,9 +129,9 @@ Official site - nediam.com.mx/trapper
 
 Or contact us at:
 
-crypkey@gmail.com
-nediam@nediam.com.mx
-nahual@0hday.org
+crypkey@gmail.com (status unknown)
+nediam@nediam.com.mx (dead domain alive hacker)
+nahual@0hday.org (alive still never read emails)
 
 ---:[ EOF ]:---
 
